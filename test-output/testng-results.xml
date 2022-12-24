@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="324" started-at="2022-12-15T10:52:11 CST" finished-at="2022-12-15T10:52:12 CST">
+    <groups>
+      <group name="Apple">
+        <method signature="GroupingExample.apple1()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="apple1" class="testNG.GroupingExample"/>
+        <method signature="GroupingExample.apple2()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="apple2" class="testNG.GroupingExample"/>
+      </group> <!-- Apple -->
+      <group name="vivo">
+        <method signature="GroupingExample.vivo1()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="vivo1" class="testNG.GroupingExample"/>
+        <method signature="GroupingExample.vivo2()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="vivo2" class="testNG.GroupingExample"/>
+      </group> <!-- vivo -->
+      <group name="lenovo">
+        <method signature="GroupingExample.lenovo1()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="lenovo1" class="testNG.GroupingExample"/>
+        <method signature="GroupingExample.lenovo2()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="lenovo2" class="testNG.GroupingExample"/>
+      </group> <!-- lenovo -->
+      <group name="moto">
+        <method signature="GroupingExample.moto1()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="moto1" class="testNG.GroupingExample"/>
+        <method signature="GroupingExample.moto2()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="moto2" class="testNG.GroupingExample"/>
+      </group> <!-- moto -->
+    </groups>
+    <test name="Default test" duration-ms="324" started-at="2022-12-15T10:52:11 CST" finished-at="2022-12-15T10:52:12 CST">
+      <class name="testNG.GroupingExample">
+        <test-method status="PASS" signature="apple1()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="apple1" duration-ms="28" started-at="2022-12-15T10:52:12 CST" finished-at="2022-12-15T10:52:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple1 -->
+        <test-method status="PASS" signature="apple2()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="apple2" duration-ms="8" started-at="2022-12-15T10:52:12 CST" finished-at="2022-12-15T10:52:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apple2 -->
+        <test-method status="PASS" signature="lenovo1()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="lenovo1" duration-ms="3" started-at="2022-12-15T10:52:12 CST" finished-at="2022-12-15T10:52:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenovo1 -->
+        <test-method status="PASS" signature="lenovo2()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="lenovo2" duration-ms="16" started-at="2022-12-15T10:52:12 CST" finished-at="2022-12-15T10:52:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lenovo2 -->
+        <test-method status="PASS" signature="moto1()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="moto1" duration-ms="21" started-at="2022-12-15T10:52:12 CST" finished-at="2022-12-15T10:52:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moto1 -->
+        <test-method status="PASS" signature="moto2()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="moto2" duration-ms="10" started-at="2022-12-15T10:52:12 CST" finished-at="2022-12-15T10:52:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moto2 -->
+        <test-method status="PASS" signature="vivo1()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="vivo1" duration-ms="3" started-at="2022-12-15T10:52:12 CST" finished-at="2022-12-15T10:52:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vivo1 -->
+        <test-method status="PASS" signature="vivo2()[pri:0, instance:testNG.GroupingExample@2a17b7b6]" name="vivo2" duration-ms="6" started-at="2022-12-15T10:52:12 CST" finished-at="2022-12-15T10:52:12 CST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vivo2 -->
+      </class> <!-- testNG.GroupingExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
